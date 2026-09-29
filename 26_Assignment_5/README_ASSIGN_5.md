@@ -2,7 +2,7 @@
 
 **Name:** Raj Kanade | **Roll No:** 26 | **PRN:** 12413760 | **Batch:** B3
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rey-1e/Deep-Learning/blob/main/Assignment-5/RNN%20vs%20LSTM%20vs%20GRU.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rey-1e/Deep-Learning/blob/main/26_Assignment_5/RNN%20vs%20LSTM%20vs%20GRU.ipynb)
 
 ## 1. Assignment Title
 

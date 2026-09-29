@@ -2,7 +2,7 @@
 
 **Name:** Raj Kanade | **Roll No:** 26 | **PRN:** 12413760 | **Batch:** B3
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rey-1e/Deep-Learning/blob/main/Assignment-8/BERT.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rey-1e/Deep-Learning/blob/main/26_Assignment_8/BERT.ipynb)
 
 ## Aim
 Implement a pre-trained BERT model for binary sentiment analysis using the Rotten Tomatoes movie-review dataset.
@@ -43,7 +43,7 @@ Model Evaluation
 ## Project File Structure
 
 ```text
-Assignment-8/
+26_Assignment_8/
 │
 ├── BERT.ipynb
 ├── bert_sentiment_analysis.py
